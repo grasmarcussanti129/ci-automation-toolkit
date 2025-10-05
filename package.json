@@ -10,7 +10,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/updatedusername/ci-automation-toolkit.git"
+    "url": "https://github.com/newusername/ci-automation-toolkit.git"
   },
   "keywords": ["CI", "CD", "automation", "toolkit"],
   "license": "MIT"
